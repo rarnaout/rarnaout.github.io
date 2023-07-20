@@ -1,0 +1,143 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	font-family: "Century Gothic", Tahoma, Geneva, sans-serif;
+	line-height: 150%;
+}
+#container {
+	background: #fff;
+	width: 900px;
+	padding-bottom: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	margin-bottom: 0;
+	overflow: hidden;
+}
+#header {
+	background: #C00;
+	height: 35px;
+	margin-top: 0;
+}
+#header_dots {
+	background-image:url(header_bg.png);
+	background-repeat:no-repeat;
+	height: 35px;
+	width: 300px;
+	float: right;
+}
+#middle {
+	background: #fff;
+}
+#left {
+	padding-left: 70px;
+	max-width: 460px;
+	float: left;
+}
+#right {
+	text-align: right;
+	float: right;
+	padding-top: 10px;
+	padding-right:15px;
+	max-width: 275px;
+}
+strong {
+	color: #C00;
+}
+strong.news {
+	color: #0a4;
+}
+img.headshot-right {
+	width: 130px;
+	float: right;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+img.headshot-left {
+	width: 115px;
+	float: left;
+	margin-top: 5px;
+	margin-right: 10px;
+}
+p.title {
+	font-size: 42px;
+	line-height: 0%;
+	font-weight:bold;
+	margin-top: 150px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+p.top_text {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	color: #555;
+	font-size: 20px;
+	line-height: 170%;
+	text-align:center;
+}
+p.tag {
+	margin-top: 40px;
+	margin-bottom: 0px;
+	color: #F90;
+	font-size: 14px;
+	font-weight: bold;
+}
+p.name {
+	margin-top:30px;
+	color: #444;
+	font-size: 22px;
+}
+p.text {
+	color: #666;
+	font-size:14px;
+}
+p.link {
+	color: #555;
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bold;
+}
+p.copyright {
+	color: #999;
+	font-size: 11px;
+	margin-top: 50px;
+	text-align:center;
+}
+div.menu {
+	color: #fbb;
+	font-size: 12px;
+	float:left;
+	margin-left:40px;
+	margin-top:5px;
+}
+div.news {
+	background-color: #efe;
+	border:1px solid #0a4;
+	padding-top: 7px;
+	padding-bottom: 10px;
+	padding-left: 25px;
+	padding-right: 25px;
+	margin-top:15px;
+	margin-bottom: 25px;
+}
+div.center {
+	width: 500px;
+	margin:auto;
+}
+a.menu {
+	color: #fbb;
+	font-size: 12px;
+	text-decoration: none;
+}
+a.menu:hover {
+	color: #fff;
+}
+a.link {
+	color: #24c;
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.link:hover {
+	color: #36f;
+}

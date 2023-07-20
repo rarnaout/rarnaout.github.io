@@ -1,0 +1,164 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+        background: "FFF";
+	font-family: "Century Gothic", Tahoma, Geneva, sans-serif;
+	line-height: 160%;
+}
+#container {
+	background: #fff;
+	width: 1000px;
+	padding-bottom: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	margin-bottom: 0;
+	overflow: hidden;
+}
+#header {
+	background: #C00;
+	height: 35px;
+	margin-top: 0;
+}
+#logos {
+	margin-bottom: 20px;
+	float: right;
+	margin-right: 30px;
+	margin-top: 10px;
+}
+#header_dots {
+	background-image:url(header_bg.png);
+	background-repeat:no-repeat;
+	height: 35px;
+	width: 300px;
+	float: right;
+}
+#middle {
+	background: #fff;
+}
+
+strong {
+	color: #C00;
+}
+strong.name {
+	color: #555;
+}
+strong.news {
+	color: #0a4;
+}
+img.affiliation {
+	border: none;
+}
+img.headshot-left {
+	width: 115px;
+	float: left;
+	margin-top: 8px;
+	margin-right: 14px;
+}
+p.title {
+	font-size: 50px;
+	line-height: 0%;
+	letter-spacing: -2px;
+	font-weight:bold;
+	margin-bottom: 35px;
+}
+p.top_text {
+	margin-bottom: 40px;
+	color: #333;
+	font-size: 20px;
+	line-height: 180%;
+}
+p.tag {
+	margin-bottom: 0px;
+	#color: #f80;
+	color: #c00;
+	font-weight: bold;
+	font-size: 13px;
+}
+p.news-tag {
+        #color: #0a4;
+        color: #c00;
+	font-size: 12px;
+	font-weight: bold;
+}
+p.name {
+	margin-top:18px;
+	color: #444;
+	font-size: 20px;
+	line-height:28px;
+}
+p.text {
+	color: #666;
+	font-size:15px;
+	hyphens: manual;
+}
+p.link {
+	color: #555;
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bold;
+}
+p.caption {
+	color: #bbb;
+	font-size: 14px;
+}
+div.left {
+	padding-left: 70px;
+	max-width: 475px;
+	float: left;
+}
+div.right {
+	float: right;
+	padding-top: 10px;
+	padding-right:40px;
+	max-width: 300px;
+}
+div.menu {
+	color: #fbb;
+	font-size: 12px;
+	float:left;
+	margin-left:40px;
+	margin-top:5px;
+}
+div.news {
+	text-align: left;
+	#background-color: #efe;
+	#border-left: 1px solid #0a4;
+	border-left: 1px solid #999;
+	padding-left: 25px;
+	padding-right: 25px;
+	margin-top:30px;
+	margin-bottom: 60px;
+}
+div.left-block {
+	margin-bottom: 55px;
+	padding-right: 50px;
+}
+div.project {
+  	margin-bottom: 50px;
+}
+a.menu {
+	color: #fbb;
+	font-size: 14px;
+	text-decoration: none;
+}
+a.menu:hover {
+	color: #fff;
+}
+a.link {
+	color: #249;
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.link:hover {
+	color: #36f;
+}
+a.paralink {
+	color: #249;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.paralink:hover {
+	color: #36f;
+}

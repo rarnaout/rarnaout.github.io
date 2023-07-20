@@ -1,0 +1,179 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+        background: "FFF";
+	font-family: "Arial", Tahoma, Geneva, sans-serif;
+	line-height: 130%;
+}
+#container {
+	background: #fff;
+	width: 1000px;
+	padding-bottom: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	margin-bottom: 0;
+	overflow: hidden;
+}
+#header {
+	height: 30px;
+	margin-top: 0;
+	background-image: -webkit-gradient(
+		  linear,
+		  left top,
+		  left bottom,
+		  color-stop(0, #FFFFFF),
+		  color-stop(1, #FcFcFc)
+		  );
+	background-image: -o-linear-gradient(bottom, #FFFFFF 0%, #FcFcFc 100%);
+	background-image: -moz-linear-gradient(bottom, #FFFFFF 0%, #FcFcFc 100%);
+	background-image: -webkit-linear-gradient(bottom, #FFFFFF 0%, #FcFcFc 100%);
+	background-image: -ms-linear-gradient(bottom, #FFFFFF 0%, #FcFcFc 100%);
+	background-image: linear-gradient(to bottom, #FFFFFF 0%, #FcFcFc 100%);
+}
+#logos {
+	margin-bottom: 0px;
+	float: right;
+	margin-right: 40px;
+	margin-top: 15px;
+}
+#middle {
+	background: #fff;
+}
+
+strong {
+	color: #C00;
+}
+strong.fullname {
+	font-size: 14px;
+	color: #555;
+}
+strong.name {
+	color: #555;
+}
+strong.news {
+	color: #0a4;
+}
+img.affiliation {
+	border: none;
+	margin-left: 10px;
+}
+img.headshot-left {
+	width: 115px;
+	float: left;
+	margin-top: 5px;
+	margin-right: 14px;
+}
+img.right {
+	width: 345px;
+}
+p.top_text {
+	margin-bottom: 40px;
+	color: #333;
+	font-family: "Georgia", Times, serif;
+	font-size: 18px;
+	line-height: 170%;
+}
+p.tag {
+	margin-bottom: 0px;
+	color: #666;
+	font-weight: bold;
+	font-size: 13px;
+}
+p.news-tag {
+      color: #666;
+	font-size: 12px;
+	font-weight: bold;
+}
+p.name {
+	font-family: "Georgia", Times, serif;
+	margin-top:18px;
+	color: #444;
+	font-size: 20px;
+	line-height:28px;
+}
+p.text {
+	color: #666;
+	font-size:12px;
+	hyphens: manual;
+}
+p.link {
+	color: #555;
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bold;
+}
+div.left {
+	padding-left: 70px;
+	max-width: 475px;
+	float: left;
+	margin-top: 10px;
+}
+div.right {
+	float: right;
+	padding-right:40px;
+	max-width: 345px;
+}
+div.menu {
+	font-size: 12px;
+	font-weight: bold;
+	float:left;
+	margin-left:50px;
+	margin-right:20px;
+	margin-top:2px;
+}
+div.labname {
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	margin-left: 65px;
+}
+p.title {
+	font-family: "Georgia", Times, serif;
+	font-size: 52px;
+	margin-bottom: 20px;
+}
+p.caption {
+	color: #bbb;
+	font-size: 14px;
+	margin-bottom: 5px;
+}
+div.news {
+	text-align: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	#margin-top:10px;
+	margin-bottom: 30px;
+	#border-top: 1px solid #bbb;
+	padding-top: 10px;
+}
+div.left-block {
+	margin-bottom: 55px;
+	padding-right: 50px;
+}
+div.project {
+  	margin-bottom: 50px;
+}
+a.menu {
+	color: #0F7B97;
+	text-decoration: none;
+}
+a.menu:hover {
+	color: #FB4309;
+}
+a.link {
+	color: #0F7B97;
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.link:hover {
+	color: #FB4309;
+}
+a.paralink {
+	color: #249;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.paralink:hover {
+	color: #36f;
+}

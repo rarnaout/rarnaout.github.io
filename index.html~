@@ -1,0 +1,403 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>M. Amin Arnaout Laboratory</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="container">
+
+<div id="middle">
+    
+
+<!-- Menu bar --------------------------------------------------------------------->
+
+<div id="header">
+<div class="menu"><a class="menu" href="#overview">OVERVIEW</a></div>
+<div class="menu"><a class="menu" href="#members">MEMBERS</a></div>
+<div class="menu"><a class="menu" href="#projects">PROJECTS</a></div>
+<div class="menu"><a class="menu" href="#positions">POSITIONS</a></div>
+<div class="menu"><a class="menu" href="#publications">PUBLICATIONS</a></div> <!-- change to pubmed search -->
+<div class="menu"><a class="menu" href="#news">NEWS</a></div>
+<div class="menu"><a class="menu" href="#contact">CONTACT</a></div>
+</div>
+
+
+<!-- Logos --------------------------------------------------------------------->
+
+<div id="logos">
+<a href="http://www.bidmc.org/en/Research.aspx"><img class="affiliation" height="40px" src="bbs_logo.png" /></a>
+<a href="http://www.hmfpinformatics.org"><img class="affiliation" height="65px" src="hsci_logo.png" /></a>
+<a href="https://sysbio.med.harvard.edu"><img class="affiliation" height="65px" src="mgh_logo.png" /></a>
+<a href="http://hms.harvard.edu"><img class="affiliation" height="62px" src="harvard_logo.png" /></a>
+</div>
+<br clear="all" />
+
+
+<!-- Right column --------------------------------------------------------------------->
+
+<div class="right">        
+
+<br />
+<br />
+<br />
+<br />
+<div class="news">
+<a name="news"></a>
+<p class="news-tag">NEWS | DECEMBER 2013</p>
+<p class="name">Lab joins the Dana-Farber/Harvard Cancer Center (DF/HCC)</p>
+<p class="text">Dr. Arnaout has joined the faculty of the
+  Dana-Farber/Harvard Cancer Center. The lab looks forward to closer
+  ties with the extraordinary community of the DF/HCC regarding B- and
+  T-cell immune repertoires in cancer and in cancer immunotherapy.</p>
+
+<p class="link">
+<a class="link" href="http://www.dfhcc.harvard.edu">Visit the DF/HCC website</a>
+<br />
+</div>
+
+<div class="news">
+<a name="news"></a>
+<p class="news-tag">NEWS | NOVEMBER 2013</p>
+<p class="name">Team charts the dollars and sense behind blood tests</p>
+<p class="text">Doctors order too many blood tests, conventional
+  wisdom goes, and repeat blood tests are helping bankrupt
+  medicine. But is it true? A surprising new 15-year study by
+  Dr. Arnaout and colleagues finds widespread underuse, as well as
+  overuse, of this single highest-volume medical activity, with repeat
+  tests just the tip of the iceberg. The team discusses the
+  implications for patients, doctors, and the $3-trillion US
+  healthcare economy. Out now in <i>PLoS One</i>.</p>
+
+<p class="link">
+<a class="link" href="http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0078962&representation=PDF">Read the full study (PDF)</a>
+<br />
+<a class="link" href="http://dx.plos.org/10.1371/journal.pone.0078962">Read the full study (HTML)</a>
+<br />
+<a class="link" href="http://www.bostonglobe.com/lifestyle/health-wellness/2013/11/18/well-asthma-may-delay-pregnancy/Wuv4puPM3fH8Sh6Ukc2nJO/story.html">See <i>Boston Globe</i> coverage</a>
+<br />
+<a class="link" href="http://www.darkdaily.com/study-at-bostons-beth-israel-deaconess-medical-center-determines-that-30-of-all-clinical-laboratory-tests-are-overused-or-medically-unnecessary-224#axzz2uLPF5P2w">See coverage in <i>Dark Daily</i></a>
+<br />
+<a class="link" href="http://hms.harvard.edu/news/unnecessary-testing-11-18-13?utm_source=SilverpopMailing&utm_medium=email&utm_campaign=11.20.daily%20(1)">See Harvard Medical School coverage</a>
+<br />
+<a class="link" href="http://www.bostonmagazine.com/health/blog/2013/12/23/hospitals-performing-unnecessary-tests/">See coverage in <i>Boston</i> Magazine</a>
+<br />
+<a class="link" href="http://www.mdtmag.com/blogs/2014/03/are-ivds-being-overused-or-underused">See coverage in <i>Medical Design Technology</i></a>
+<br>
+<a class="link" href="http://www.captodayonline.com/clinician-friendly-tactics-slash-unwarranted-testing/">See coverage in <i>CAP Today</i></a>
+<br>
+<a class="link" href="http://www.bidmc.org/News/In-Research/2013/November/Arnaout.aspx">Get the press release</a>
+</p>
+</div>
+
+<div class="news">
+<a name="news"></a>
+<p class="news-tag">NEWS | JUNE 2013</p>
+<p class="name">Lab joins HMS Systems Biology PhD program</p>
+<p class="text">Dr. Arnaout has joined the faculty of Harvard Medical
+  School's Systems Biology Program. The lab looks forward to closer
+  ties with the amazing students, fellows, and faculty of the
+  Department of Systems Biology at HMS.</p>
+
+<p class="link">
+<a class="link" href="https://sysbio.med.harvard.edu">Visit the Systems Biology website</a>
+<br />
+<a class="link" href="http://sysbiophd.harvard.edu">Visit the SysBio PhD Program website</a>
+<br />
+<a class="link" href="http://sysbiophd.harvard.edu/people/faculty-0">Visit the PhD Program faculty page</a>
+</p>
+</div>
+
+<div class="news">
+<a name="news"></a>
+<p class="news-tag">NEWS | MAY 2013</p>
+<p class="name">Statistics help pundits plan big science</p>
+<p class="text">"Statistics Crush Pundits" ran the headlines when Nate
+Silver predicted the 2012 presidential election using mathematical
+models. A brief comment following up on our own recent work predicting
+the cost and pace of pharmacogenomic advances using models was just
+published in <i>Nature</i>.</p>
+
+<p class="link">
+<a class="link" href="arnaout_nature_modeling_2013.pdf">Read the comment (PDF)</a>
+<br />
+<a class="link" href="arnaout_nature_modeling_2013_suppl_info.pdf">See full author list (PDF)</a>
+</p>
+</div>
+
+<div class="news">
+<p class="news-tag">NEWS | FEBRUARY 2013</p>
+<p class="name">Crowdsourcing big-data bioinformatics</p>
+<p class="text">Informatics expertise is in short supply in biology,
+including in immunomics. Teaming up with the medical school, business
+school, and industry, we show that competitive crowdsourcing can
+help. Joy's Law says "no matter who you are, most of the smartest
+people work for someone else." Through competitive crowdsourcing,
+maybe more of them can work for biologists. Out now in <i>Nature
+Biotechnology</i>.</p>
+
+<p class="link">
+<a class="link" href="arnaout_nat_biotech_2013.pdf">Read the full study (PDF)</a>
+<br />
+<a class="link" href="arnaout_nat_biotech_2013_suppl_info.pdf">See the supplementary information (PDF)</a>
+<br />
+<a class="link" href="http://blogs.nature.com/news/2013/02/crowd-sourced-coders-take-on-immunology-big-data.html">Read <i>Nature</i> coverage</a>
+<br />
+<a class="link" href="http://bostonglobe.com/business/2013/02/11/crowdsourcing-innovation-harvard-study-suggests-prizes-can-spur-scientific-problem-solving/JxDkOkuIKboRjWAoJpM0OK/story.html">Read Boston Globe coverage</a>
+<br />
+<a class="link" href="http://www.genomeweb.com/informatics/harvard-study-validates-crowdsourcing-effective-model-bioinformatics-development">Read GenomeWeb coverage</a>
+<br />
+<a class="link" href="http://hms.harvard.edu/news/solving-big-data-bottleneck-2-7-13">Read HMS coverage</a>
+<br />
+<a class="link" href="http://www.eurekalert.org/pub_releases/2013-02/hms-stw020413.php">Read press release</a>
+</p>
+</div>
+
+<div class="news">        
+<p class="news-tag">NEWS | JANUARY 2013</p>
+<p class="name">Team prices out genomic medicine</p>
+<p class="text">You've heard it before: genomic medicine will change
+everything. But how exactly, when, and how much will it cost to get
+there?  Using mathematical forecasting techniques like those used to
+predict presidential elections, the Arnaout Lab offers numbers and a
+roadmap in a first-of-its-kind evidence-based study just published
+in <i>Clinical Chemistry</i>.</p>
+
+<p class="link">
+<a class="link" href="arnaout_clinchem_2012.pdf">Read the full study
+(PDF)</a> <br />
+<a class="link" href="topolEditorial2013.pdf">Read editorial by Eric
+Topol (PDF)</a> <br />
+<a class="link"
+href="http://www.genomeweb.com/clinical-genomics/qa-ramy-arnaout-predicting-costs-and-time-required-reducing-adverse-drug-events">Read
+Q&A at GenomeWeb (registration required)</a> <br />
+<a class="link"
+href="http://www.genengnews.com/gen-articles/pricing-out-prescription-genomic-medicine/4745/">Read
+commentary in GEN</a> <br />
+<a class="link"
+href="http://hms.harvard.edu/content/when-will-genomic-research-translate-clinical-care">Read
+HMS coverage</a> <br />
+<a class="link"
+href="https://portal.bidmc.org/Utility/BIDMC-Today/Archived-Stories/2013/January/ResearchUpdateArnaout.aspx">Read
+BIDMC coverage</a> <br />
+<a class="link"
+href="http://www.eurekalert.org/pub_releases/2013-01/bidm-wwg010413.php">Read
+press release</a>
+</p>
+</div>
+
+<div class="news">
+<p class="news-tag">NEWS | JULY 2011</p>
+<p class="name">Turning resident calls into clinical insights</p>
+
+<p class="text">Clinical pathology residents handle thousands of calls
+  each year on every topic imaginable, but most institutions lack an
+  easy way to keep track of them all. So we built one&mdash;CallWall&mdash;and
+  have now published on our trainees' initial experience using this
+  web-based system to track their calls.</p>
+
+<p class="text"><strong class="name">Want to use CallWall for resident
+  training and test utilization where you
+  are?</strong> <a class="paralink" href="mailto:rarnaout@gmail.com?Subject=CallWall"
+  target="_top">Contact Dr. Arnaout</a>.</p>
+
+<p class="link">
+<a class="link" href="arnaout_callwall_2011.pdf">Read the study
+(PDF)</a> <br />
+
+</p>
+</div>
+
+</div>
+
+
+<!-- Left column --------------------------------------------------------------------->
+
+<a name="projects"></a>
+<div class="left">
+
+<p class="title">M. Amin Arnaout Laboratory</p>
+<p class="caption">Massachusetts General Hospital | Harvard Medical School</p>
+
+<p class="text"><img class="headshot-left" src="arnaout.png"/>
+<strong class="name">Dr. M. Amin Arnaout, MD</strong><br />
+Title<br />
+Title<br />
+Title<br />
+Title<br />
+</p>
+<br clear=all>
+
+<p class="top_text">Several-line overview of what the laboratory does.</p>
+
+<div class="left-block">
+<p class="tag">PROJECTS</p>
+
+
+<div class="project">
+<p class="name">Project 1 title</p>
+
+<p class="text">Project 1 description.</p>
+
+</div>
+
+
+<div class="project">
+<p class="name">Project 2 title</p>
+
+<p class="text">Project 2 description.</p>
+
+</div>
+
+
+<div class="project">
+<p class="name">Project 3 title</p>
+
+<p class="text">Project 3 description.</p>
+
+</div>
+
+
+</div>
+
+
+
+<a name="people"></a>
+<p class="tag">PEOPLE</p>
+
+<div class="project">
+<p class="name">Working with us</p>
+
+<p class="text">Are you a physicist, mathematician, bioengineer, or
+computa&shy;tional biologist looking for awesome, game-changing
+problems to work on in biology, big data, or medicine, or some
+combination of the three? Let us hear from you. We also collaborate
+with Harvard and MIT researchers looking for RNAseq or microarray
+analysis.</p>
+
+<p class="link"><a class="link" href="#contact">Contact us</a></p>
+</div>
+
+<div class="project">
+<p class="name">Members</p>
+
+<p class="text"><img class="headshot-left" src="ramy.png"
+/><strong class="name">Ramy Arnaout, MD, DPhil</strong> is Assistant
+Professor of Pathology at BIDMC and Harvard Medical School, Associate
+Director of the Clinical Microbiology Laboratories at BIDMC, and
+cofounder of the Department of Pathology's Genomic Medicine
+Initiative. An alumnus of MIT, he received his doctorate in
+mathematical (systems) biology from Oxford University on a Marshall
+Scholarship and his MD from Harvard Medical School as a Soros
+Fellow. He completed residency in pathology at Brigham and Women's
+Hospital and postdoctoral work at the Broad Institute of MIT and
+Harvard.</p>
+
+<p class="text"><img class="headshot-left" src="joe.png"
+/><strong class="name">Joseph Kaplinsky, PhD</strong> is a
+postdoctoral fellow studying immunogenomics in the lab. He received
+his doctorate from Imperial College, where he built microfluidic
+systems for single-cell analysis. Trained in theoretical and
+experimental physics as well as biology, he is interested in applying
+physical and quantitative systems approaches to biological
+problems.</p>
+
+<p class="text"><img class="headshot-left" src="fahim.png"
+/><strong class="name">Fahim Mohammad, PhD</strong> is a postdoctoral
+fellow studying the bioinformatics of complex diseases, computational
+biology, and systems medicine in the lab. He received his doctorate
+from the University of Louisville, where he devised a systems-based
+approach for detecting and predicting molecular interactions across
+tissues.</p>
+
+<p class="text"><img class="headshot-left" src="anthony.png"
+/><strong class="name">Anthony Li</strong> is a research assistant
+studying immunomics in the lab. He received his MS in Pharmaceutical
+Sciences from the Massachusetts College of Pharmacy and Health
+Sciences where he helped develop of liposomal techniques to
+specifically target mitochondria in malignant murine glial cells. He
+is interested in the use of microfluidics as a high throughput method
+of analysis and quantification. He moonlights at the circus. </p>
+</div>
+
+
+<div class="project">
+<p class="name">Alumni and Friends</p>
+
+<p class="text"><img class="headshot-left" src="tom.png"
+/><strong class="name">Thomas Buck, MD </strong>is a hematopathologist
+in Connecticut. He completed his pathology training at the Beth Israel
+Deaconess Medical Center. He is interested in promoting an empirical
+approach to the practice of laboratory medicine and in finding ways to
+apply this directly to patient care. In the lab he helped build models
+and analyzed data on the pace of pharmacogenomic advances to forecast
+when they will affect patients in the clinic, and how much this is
+likely to cost.</p>
+
+<p class="text"><img class="headshot-left" src="eric.jpg"
+/><strong class="name">Eric L. Ding, ScD</strong> is an
+epidemiologist, nutritionist, and research faculty at the Harvard School
+of Public Health. His research focuses on obesity and nutritional risk
+factors for chronic diseases, social networks on health, and social
+media technology for health. In 2006, he was noted for his key role in
+leading a two-year-long investigation into the controversial drug
+safety and adverse metabolic risks of Vioxx®.</p>
+
+<p class="text"><img class="headshot-left" src="paul.png"
+/><strong class="name">Paulvalery Roulette, MD</strong> is a
+second-year orthopedics resident at Carolinas Medical Center and an
+alumnus of Harvard Medical School and Cornell University. In the lab
+he compiled and analyzed data on the pace of pharmacogenomic advances
+to forecast when they will affect patients in the clinic, and how much
+this is likely to cost.</p>
+
+<p class="text"><img class="headshot-left" src="ming.png"
+/><strong class="name">Ming Zhi, MD</strong> is a first-year resident
+in radiation oncology in Palo Alto, CA. He is an alumnus of Harvard
+Medical School and of Stanford University, where he majored in
+biology. His interests lie at the intersection of medicine, design,
+and technology. In the Arnaout Lab he studied the utilization of
+laboratory diagnostics across medicine. He has been known to school
+Dr. Arnaout on the basketball court and prefers to be paid in
+Gatorade.</p>
+</div>
+
+<p class="tag"><a name="contact">CONTACT</a></p>
+<p class="text">
+<strong class="name">Email</strong><br />
+rarnaout gmail com, with the at sign and dots</p>
+<p class="text">
+<strong class="name">Post</strong><br />
+Arnaout Lab<br />
+BIDMC<br />
+330 Brookline Avenue<br />
+Boston, MA 02215</p>
+
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<p class="text"><center>Copyright Ramy Arnaout 2013</center></p>
+</body>
+
+<!-- Google analytics code -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37388963-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</html>
